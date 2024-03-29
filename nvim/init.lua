@@ -1,2 +1,1 @@
-require("wiu.init")
-require("wiu.remap")
+require("wiu")
